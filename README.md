@@ -96,11 +96,7 @@ streamlit run withgui.py
 * CLI version allows advanced filtering
 * GUI version provides a smooth interactive experience
 
----
 
-## 📸 Screens (Optional)
-
-You can add screenshots here for better presentation.
 
 ---
 
